@@ -2,6 +2,6 @@
 
 echo 'Hello!';
 
-echo '<br>Changed in master branch';
+echo '<br>Changed resolved';
 
 echo 'Blablabla';
