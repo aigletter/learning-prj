@@ -6,4 +6,4 @@ echo '<br>Changed resolved';
 
 echo 'Blablabla';
 
-$a = 'Changes from remote';
+$a = 'Changes from remote!!!!!!!!!';
