@@ -2,6 +2,6 @@
 
 phpinfo();
 
-echo 'Hello world!!!!!!';
+echo 'I am working!';
 
 echo '!';
