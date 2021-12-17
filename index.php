@@ -1,7 +1,5 @@
 <?php
 
-phpinfo();
-
-echo 'Hello world!!!!!!';
+echo 'I am working!';
 
 echo 'Changed in master branch';
