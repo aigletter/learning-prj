@@ -1,5 +1,5 @@
 <?php
 
-echo 'I am working!';
+echo 'Hello!';
 
 echo 'Changed in master branch';
